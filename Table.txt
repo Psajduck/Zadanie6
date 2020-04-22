@@ -1,0 +1,4 @@
+Ryzen 5 3500U	4/8	3,6 GHz	4,2 GHz	65W
+AMD Ryzen 9 3900X	12/24	3,8 GHz	4,6 GHz	105 W
+Intel Core i5 8600	6/6	3,6 GHz	4,3 Ghz	95 W
+Intel Core i7-9700K	8/8	3,6 GHz	4,9 Ghz	95 W
